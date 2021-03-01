@@ -1977,7 +1977,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2MxYjhlZmVlMmRlZjQ5Yjk5YzQ2N2ZkMTk1NzVhZTI0X2U2ZGJlMjE5LTc3ZWYtNGI2YS1hZjgzLWY5ZGU3ZGUwODkyMw=="
+          "value": "https://jamboard.google.com/d/1z31x6KBSrThY6mS_ZX_TsWDZDJzaQtDZOaJaJyvXKiQ/edit?usp=sharing"
         }
       ],
       "type": "tilelayer",
