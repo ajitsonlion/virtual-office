@@ -1971,13 +1971,13 @@
       ],
       "height": 16,
       "id": 10,
-      "name": "jamboard",
+      "name": "whiteboard",
       "opacity": 1,
       "properties": [
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "https://jamboard.google.com/d/1z31x6KBSrThY6mS_ZX_TsWDZDJzaQtDZOaJaJyvXKiQ/edit?usp=sharing&embedded=true"
+          "value": "https://whiteboard.explaineverything.com/#YXPXHBWE"
         }
       ],
       "type": "tilelayer",
