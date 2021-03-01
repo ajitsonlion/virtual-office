@@ -1,4 +1,4 @@
-//{ "compressionlevel":-1,
+{ "compressionlevel":-1,
 "editorsettings":
    {
     "chunksize":
@@ -55,7 +55,7 @@
                {
                 "name":"openWebsite",
                 "type":"string",
-                "value":"https:\/\/whiteboard.explaineverything.com\/#YXPXHBWE"
+                "value":"https//whiteboard.explaineverything.com/#YXPXHBWE"
                }],
         "type":"tilelayer",
         "visible":true,
@@ -80725,4 +80725,4 @@
 "type":"map",
 "version":1.4,
 "width":40
-//}
+}
