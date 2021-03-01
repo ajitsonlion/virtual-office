@@ -1977,7 +1977,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "https://jamboard.google.com/d/1z31x6KBSrThY6mS_ZX_TsWDZDJzaQtDZOaJaJyvXKiQ/edit?usp=sharing"
+          "value": "https://jamboard.google.com/d/1z31x6KBSrThY6mS_ZX_TsWDZDJzaQtDZOaJaJyvXKiQ/edit?usp=sharing&embedded=true"
         }
       ],
       "type": "tilelayer",
