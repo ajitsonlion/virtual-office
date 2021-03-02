@@ -80,7 +80,13 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office-map-chill-zone"
-                }],
+                },
+           {
+             "name":"openWebsiteTrigger",
+             "type":"string",
+             "value":"onaction"
+           }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":46,
