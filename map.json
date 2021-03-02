@@ -82,7 +82,7 @@
                  "value":"office-map-chill-zone"
                 },
            {
-             "name":"openWebsiteTrigger",
+             "name":"jitsiTrigger",
              "type":"string",
              "value":"onaction"
            }
