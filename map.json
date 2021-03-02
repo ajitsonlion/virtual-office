@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https\/\/whiteboard.explaineverything.com\/#YXPXHBWE"
+                 "value":"https://whiteboard.explaineverything.com/#YXPXHBWE"
                 }],
          "type":"tilelayer",
          "visible":false,
