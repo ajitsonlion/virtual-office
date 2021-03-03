@@ -119,12 +119,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https://www.sync-video.com/r/0ea38afa-7b6f-11eb-9439-0242bb"
-                },
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
+                 "value":"https://concerto.jambit.com/frontend/2?preview=true"
                 }],
          "type":"tilelayer",
          "visible":true,
