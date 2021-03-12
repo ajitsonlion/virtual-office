@@ -34,16 +34,23 @@
          "name":"Garden-jitsi-near-water",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"office-map-garden-near-water-jitsi-8bit"
-                },
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
+           {
+             "name":"openWebsite",
+             "type":"string",
+             "value":"https://meet.jambit.com/8bit-jambit-leipzig-virtual-office-meeting-near-water"
+           },
+           {
+             "name":"openWebsiteTrigger",
+             "type":"string",
+             "value":"onaction"
+           },
+           {
+             "name":"openWebsitePolicy",
+             "type":"string",
+             "value":"fullscreen;camera;microphone;display-capture"
+           }
+
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -119,7 +126,7 @@
            {
              "name":"openWebsite",
              "type":"string",
-             "value":"https://meet.jit.si/8bitjambit-leipzig-virtual-office-garden-1"
+             "value":"https://meet.jambit.com/8bit-jambit-leipzig-virtual-office-garden-1"
            },
            {
              "name":"openWebsiteTrigger",
@@ -129,7 +136,7 @@
            {
              "name":"openWebsitePolicy",
              "type":"string",
-             "value":"fullscreen;camera;microphone"
+             "value":"fullscreen;camera;microphone;display-capture"
            }
          ],
          "type":"tilelayer",
@@ -157,16 +164,22 @@
          "name":"chill-zone-with-jitsi",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"office-map-chill-out-couch-jitsi-8bit"
-                },
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
+           {
+             "name":"openWebsite",
+             "type":"string",
+             "value":"https://meet.jambit.com/8bit-jambit-leipzig-virtual-office-chill-zone"
+           },
+           {
+             "name":"openWebsiteTrigger",
+             "type":"string",
+             "value":"onaction"
+           },
+           {
+             "name":"openWebsitePolicy",
+             "type":"string",
+             "value":"fullscreen;camera;microphone;display-capture"
+           }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -180,16 +193,22 @@
          "name":"meeting-room",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"office-map-meeting-room-jitsi-8bit"
-                },
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
+           {
+             "name":"openWebsite",
+             "type":"string",
+             "value":"https://meet.jambit.com/8bit-jambit-leipzig-virtual-office-meeting-room"
+           },
+           {
+             "name":"openWebsiteTrigger",
+             "type":"string",
+             "value":"onaction"
+           },
+           {
+             "name":"openWebsitePolicy",
+             "type":"string",
+             "value":"fullscreen;camera;microphone;display-capture"
+           }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -203,16 +222,23 @@
          "name":"Jitsi-meeting-room-2",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"office-map-meeting-room-2-jitsi-8bit"
-                },
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
+           {
+             "name":"openWebsite",
+             "type":"string",
+             "value":"https://meet.jambit.com/8bit-jambit-leipzig-virtual-office-meeting-room-2"
+           },
+           {
+             "name":"openWebsiteTrigger",
+             "type":"string",
+             "value":"onaction"
+           },
+           {
+             "name":"openWebsitePolicy",
+             "type":"string",
+             "value":"fullscreen;camera;microphone;display-capture"
+           }
+
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":46,
