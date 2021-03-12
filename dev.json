@@ -125,6 +125,11 @@
              "name":"openWebsiteTrigger",
              "type":"string",
              "value":"onaction"
+           },
+           {
+             "name":"openWebsitePolicy",
+             "type":"string",
+             "value":"fullscreen;camera;microphone"
            }
          ],
          "type":"tilelayer",
