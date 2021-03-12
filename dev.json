@@ -116,16 +116,17 @@
          "name":"Garden-jitsi",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"office-map-garden-jitsi-8bit"
-                },
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
+           {
+             "name":"openWebsite",
+             "type":"string",
+             "value":"https://meet.jit.si/8bitjambit-leipzig-virtual-office-garden-1"
+           },
+           {
+             "name":"openWebsiteTrigger",
+             "type":"string",
+             "value":"onaction"
+           }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":46,
