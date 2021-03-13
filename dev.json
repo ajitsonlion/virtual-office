@@ -1187,7 +1187,42 @@
                          "type":"bool",
                          "value":true
                         }]
-                }],
+                },
+           {
+             "id":191,
+             "properties":[
+               {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+               }]
+           },
+           {
+             "id":184,
+             "properties":[
+               {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+               }]
+           },{
+             "id":188,
+             "properties":[
+               {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+               }]
+           },{
+             "id":180,
+             "properties":[
+               {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+               }]
+           }
+         ],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         },
