@@ -1583,16 +1583,29 @@
         {
          "columns":1,
          "firstgid":5250,
-         "image":"jitsi-hotspot-logo.png",
+         "image":"jambit-jitsi-hotspot-logo.png",
          "imageheight":62,
          "imagewidth":96,
          "margin":0,
-         "name":"jitsi-hotspot-logo",
+         "name":"jambit-jitsi-hotspot-logo",
          "spacing":0,
          "tilecount":1,
          "tileheight":62,
          "tilewidth":96
         },
+   {
+     "columns":1,
+     "firstgid":5251,
+     "image":"jitsi-hotspot-logo.png",
+     "imageheight":55,
+     "imagewidth":89,
+     "margin":0,
+     "name":"jitsi-hotspot-logo",
+     "spacing":0,
+     "tilecount":1,
+     "tileheight":55,
+     "tilewidth":89
+   },
         {
          "columns":1,
          "firstgid":5251,
