@@ -89,7 +89,13 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"playAudio",
+             "type":"string",
+             "value":"https://www.myinstants.com/media/sounds/welcome-to-mario-kart.mp3"
+           }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":46,
