@@ -78,12 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https://mkpc.malahieude.net/online.php?key=729403857"
-                },
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen;camera;microphone;display-capture"
+                 "value":"https://workadventure-map.web.app"
                 },
                 {
                  "name":"openWebsiteTrigger",
