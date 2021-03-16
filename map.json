@@ -3159,14 +3159,14 @@
          "columns":1,
          "firstgid":42598,
          "image":"mario-kart-mario.png",
-         "imageheight":146,
-         "imagewidth":201,
+         "imageheight":106,
+         "imagewidth":146,
          "margin":0,
          "name":"mario-kart-mario",
          "spacing":0,
          "tilecount":1,
-         "tileheight":146,
-         "tilewidth":201
+         "tileheight":106,
+         "tilewidth":146
         }],
  "tilewidth":32,
  "type":"map",
