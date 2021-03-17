@@ -44,10 +44,12 @@
 <script>
 
   window.addEventListener('load', function () {
-    const marioKartLink = document.getElementById('marioKartLink');
-    if (marioKartLink) {
-      marioKartLink.click();
-    }
+    setTimeout(()=>{
+      const marioKartLink = document.getElementById('marioKartLink');
+      if (marioKartLink) {
+        marioKartLink.click();
+      }
+    },5000);
   })
 </script>
 
