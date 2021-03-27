@@ -1681,14 +1681,14 @@
          "columns":1,
          "firstgid":5304,
          "image":"jambit-jitsi-hotspot-logo.png",
-         "imageheight":62,
-         "imagewidth":96,
+         "imageheight":41,
+         "imagewidth":64,
          "margin":0,
          "name":"jambit-jitsi-hotspot-logo",
          "spacing":0,
          "tilecount":1,
-         "tileheight":62,
-         "tilewidth":96
+         "tileheight":41,
+         "tilewidth":64
         },
         {
          "columns":1,
