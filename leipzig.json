@@ -1799,102 +1799,6 @@
          "transparentcolor":"#ff00ff"
         },
         {
-         "columns":64,
-         "firstgid":2207,
-         "image":"water.png",
-         "imageheight":1632,
-         "imagewidth":2176,
-         "margin":1,
-         "name":"water",
-         "spacing":2,
-         "tilecount":3072,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "id":389,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                },
-                {
-                 "id":390,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                },
-                {
-                 "id":391,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                },
-                {
-                 "id":453,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                },
-                {
-                 "id":454,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                },
-                {
-                 "id":455,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                },
-                {
-                 "id":517,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                },
-                {
-                 "id":518,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                },
-                {
-                 "id":519,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
-        },
-        {
          "columns":5,
          "firstgid":5279,
          "image":"exit_tile.png",
@@ -3512,32 +3416,6 @@
          "tilewidth":32
         },
         {
-         "columns":21,
-         "firstgid":39839,
-         "image":"terrain.png",
-         "imageheight":782,
-         "imagewidth":714,
-         "margin":1,
-         "name":"terrain",
-         "spacing":2,
-         "tilecount":483,
-         "tileheight":32,
-         "tilewidth":32
-        },
-        {
-         "columns":46,
-         "firstgid":40322,
-         "image":"map.png",
-         "imageheight":850,
-         "imagewidth":1564,
-         "margin":1,
-         "name":"map",
-         "spacing":2,
-         "tilecount":1150,
-         "tileheight":32,
-         "tilewidth":32
-        },
-        {
          "columns":2,
          "firstgid":41472,
          "image":"pin.png",
@@ -3594,19 +3472,6 @@
          "tilecount":1,
          "tileheight":8,
          "tilewidth":324
-        },
-        {
-         "columns":1,
-         "firstgid":42651,
-         "image":"mario-kart-mario.png",
-         "imageheight":121,
-         "imagewidth":120,
-         "margin":0,
-         "name":"mario-kart-mario",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":121,
-         "tilewidth":120
         },
         {
          "columns":16,
