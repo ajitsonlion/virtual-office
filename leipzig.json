@@ -130,17 +130,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https://meet.jambit.com/virtual-office-leipzig-medan"
+                 "value":"https://workadventure-map.web.app/medan-teams.html"
                 },
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen;camera;microphone;display-capture"
-                },
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 },
                 {
                  "name":"silent",
