@@ -108,7 +108,11 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen;camera;microphone;display-capture"
-                },
+                },                {
+             "name":"openWebsiteTrigger",
+             "type":"string",
+             "value":"onaction"
+           },
                 {
                  "name":"silent",
                  "type":"bool",
@@ -136,7 +140,11 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen;camera;microphone;display-capture"
-                },
+                },                {
+             "name":"openWebsiteTrigger",
+             "type":"string",
+             "value":"onaction"
+           },
                 {
                  "name":"silent",
                  "type":"bool",
