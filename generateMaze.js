@@ -74,14 +74,12 @@ function display(m) {
   return text.join('');
 }
 
-const mazeWidth=10;
-const mazeHeight=10;
+const mazeWidth=13;
+const mazeHeight=12;
 const maze=buildMaze(mazeWidth,mazeHeight);
 const mazeUi=display(maze);
 const mazeRows=mazeUi.split('\r\n');
 mazeRows.pop();
-console.log(tileMapRow(mazeRows[0]));
-console.log(mazeUi);
 
 let tiled='';
 mazeRows.forEach(mazeRow => {
@@ -101,7 +99,12 @@ fs.writeFile('./leipzig.json', JSON.stringify(mapObject), err => {
 
 function tileMapRow(mazeRow){
   console.log(mazeRow);
-  const slimmedRow=mazeRow.split('---').join('--').split('   ').join('  ');
+  const slimmedRow=mazeRow
+  .split('+---').join('+-')
+  .split('+   ').join('+ ')
+  .split('|   ').join('| ')
+  .split('    ').join('  ')
+  ;
   const mazeBlocks=slimmedRow.split('').map(block=> !!block.trim()?'1':'0').join('');
   return mazeBlocks.padEnd(width,'0');
 }
