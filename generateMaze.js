@@ -74,8 +74,8 @@ function display(m) {
   return text.join('');
 }
 
-const mazeWidth=9;
-const mazeHeight=9;
+const mazeWidth=10;
+const mazeHeight=10;
 const maze=buildMaze(mazeWidth,mazeHeight);
 const mazeUi=display(maze);
 const mazeRows=mazeUi.split('\r\n');
@@ -100,6 +100,8 @@ fs.writeFile('./leipzig.json', JSON.stringify(mapObject), err => {
 });
 
 function tileMapRow(mazeRow){
-  const mazeBlocks=mazeRow.split('').map(block=> !!block.trim()?1:0).join('');
+  console.log(mazeRow);
+  const slimmedRow=mazeRow.split('---').join('--').split('   ').join('  ');
+  const mazeBlocks=slimmedRow.split('').map(block=> !!block.trim()?'1':'0').join('');
   return mazeBlocks.padEnd(width,'0');
 }
