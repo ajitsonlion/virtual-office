@@ -74,7 +74,7 @@ function display(m) {
   return text.join('');
 }
 
-const mazeWidth=16;
+const mazeWidth=15;
 const mazeHeight=15;
 const maze=buildMaze(mazeWidth,mazeHeight);
 const mazeUi=display(maze);
