@@ -118,6 +118,11 @@
                  "name":"silent",
                  "type":"bool",
                  "value":true
+                },
+                {
+                 "name":"triggerEvent",
+                 "type":"string",
+                 "value":"jakarta"
                 }],
          "type":"tilelayer",
          "visible":true,
