@@ -6,15 +6,4 @@ WA.onEnterZone('jakarta', (e) => {
 
 });
 
-WA.onEnterZone('myBmwWebTeam', (e) => {
-  console.log('onEnterZone myBmwWebTeam',e);
-  WA.openPopup("popupRectangle", 'This is an imporant message!', {
-    label: "Got it!",
-    className: "primary",
-    callback: (popup) => {
-      popup.close();
-    }
-  });
-});
-
 console.log(WA);
