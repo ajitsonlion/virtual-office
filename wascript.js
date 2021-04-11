@@ -5,4 +5,16 @@ WA.onEnterZone('jakarta', (e) => {
   setTimeout(()=>WA.openTab(TEAMS_LINK_JAKARTA),1000);
 
 });
+
+WA.onEnterZone('myBmwWebTeam', (e) => {
+  console.log('onEnterZone myBmwWebTeam',e);
+  WA.openPopup("popupRectangle", 'This is an imporant message!', {
+    label: "Got it!",
+    className: "primary",
+    callback: (popup) => {
+      popup.close();
+    }
+  });
+});
+
 console.log(WA);
