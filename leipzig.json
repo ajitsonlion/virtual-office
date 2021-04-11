@@ -100,21 +100,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https://workadventure-map.web.app/jakarta-teams.html"
-                },
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen;camera;microphone;display-capture"
-                },
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                },
-                {
                  "name":"silent",
                  "type":"bool",
                  "value":true
