@@ -120,7 +120,7 @@
                  "value":true
                 },
                 {
-                 "name":"triggerEvent",
+                 "name":"zone",
                  "type":"string",
                  "value":"jakarta"
                 }],
