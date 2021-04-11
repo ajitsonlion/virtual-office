@@ -2,7 +2,7 @@ const TEAMS_LINK_JAKARTA='https://teams.microsoft.com/l/meetup-join/19%3ameeting
 
 WA.onEnterZone('jakarta', (e) => {
   console.log('onEnterZone jakarta',e);
-  setTimeout(()=>WA.openTab(TEAMS_LINK_JAKARTA),2000);
+  setTimeout(()=>WA.openTab(TEAMS_LINK_JAKARTA),1000);
 
 });
 console.log(WA);
