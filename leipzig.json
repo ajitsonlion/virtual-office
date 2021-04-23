@@ -141,24 +141,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https://meet.jambit.com/virtual-office-leipzig-medan"
-                },
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen;camera;microphone;display-capture"
-                },
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                },
-                {
                  "name":"silent",
                  "type":"bool",
                  "value":true
+                },
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"medan"
                 }],
          "type":"tilelayer",
          "visible":true,
