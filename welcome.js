@@ -1,10 +1,10 @@
-var isFirstTimeTuto = false;
-var textFirstPopup = 'Hey ! This is how to start a discussion with someone ! You can be 4 max in a bubble.';
-var textSecondPopup = 'You can also use the chat to communicate ! ';
-var targetObjectTutoBubble ='Tutobubble';
-var targetObjectTutoChat ='tutoChat';
-var targetObjectTutoExplanation ='tutoExplanation';
-var popUpExplanation = undefined;
+let isFirstTimeTuto = !!window.localStorage.getItem('isFirstTimeTuto');
+let textFirstPopup = 'Hey ! This is how to start a discussion with someone ! You can be 4 max in a bubble.';
+let textSecondPopup = 'You can also use the chat to communicate ! Also notice the Teams and Jitsi Logo throughout the map ;)';
+let targetObjectTutoBubble ='Tutobubble';
+let targetObjectTutoChat ='tutoChat';
+let targetObjectTutoExplanation ='tutoExplanation';
+let popUpExplanation = undefined;
 function launchTuto (){
     WA.openPopup(targetObjectTutoBubble, textFirstPopup, [
         {
@@ -45,6 +45,7 @@ WA.onEnterZone('popupZone', () => {
     WA.displayBubble();
     if (!isFirstTimeTuto) {
         isFirstTimeTuto = true;
+        window.localStorage.setItem('isFirstTimeTuto',isFirstTimeTuto)
         launchTuto();
     }
     else {
