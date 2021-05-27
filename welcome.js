@@ -1,4 +1,4 @@
-let isFirstTimeTuto = window.localStorage.getItem('isFirstTimeTuto')==='done';
+let isFirstTimeTuto = window.localStorage.getItem('isFirstTimeTuto')!=='done';
 let textFirstPopup = 'Hey ! This is how to start a discussion with someone ! You can be 4 max in a bubble.';
 let textSecondPopup = 'You can also use the chat to communicate ! Also notice the Teams and Jitsi Logo throughout the map ;)';
 let targetObjectTutoBubble ='Tutobubble';
