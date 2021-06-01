@@ -261,47 +261,47 @@
          "objects":[
                 {
                  "height":140,
-                 "id":1,
+                 "id":5,
                  "name":"Tutobubble",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":185,
-                 "x":1022,
-                 "y":308
+                 "x":675,
+                 "y":288
                 },
                 {
-                 "height":86.9996666666667,
-                 "id":2,
+                 "height":86.9997,
+                 "id":6,
                  "name":"TutoFinal",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":187,
-                 "x":1019,
-                 "y":361
+                 "x":672,
+                 "y":341
                 },
                 {
                  "height":84.6667,
-                 "id":3,
+                 "id":7,
                  "name":"tutoExplanation",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":184.5,
-                 "x":1023,
-                 "y":319
+                 "x":676,
+                 "y":299
                 },
                 {
                  "height":99.6667,
-                 "id":4,
+                 "id":8,
                  "name":"tutoChat",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":185,
-                 "x":1021,
-                 "y":348
+                 "x":674,
+                 "y":328
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -334,7 +334,7 @@
          "y":0
         }],
  "nextlayerid":30,
- "nextobjectid":5,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":[
         {
