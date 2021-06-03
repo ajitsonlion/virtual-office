@@ -138,7 +138,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"XXX"
+                 "value":"\/_\/global\/ajitsonlion.github.io\/virtual-office\/leipzig.json"
                 }],
          "type":"tilelayer",
          "visible":true,
