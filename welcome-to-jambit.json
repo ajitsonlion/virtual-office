@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/ajitsonlion.github.io\/virtual-office\/leipzig.json"
+                 "value":"\/_\/global\/ajitsonlion.github.io\/virtual-office\/muenchen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/ajitsonlion.github.io\/virtual-office\/leipzig.json"
+                 "value":"\/_\/global\/ajitsonlion.github.io\/virtual-office\/stuttgart.json"
                 }],
          "type":"tilelayer",
          "visible":true,
